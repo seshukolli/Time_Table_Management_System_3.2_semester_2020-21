@@ -1,0 +1,32 @@
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color:#ccffcc}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+.logout{
+    float:right;
+    margin-right:3%;
+}
+.logout:hover{
+  background-color:black;
+  color:white;
+}
+button:hover{
+  background-color:black;
+  color:white;
+}
+
+.compare{
+  margin-right: 10px;
+}
